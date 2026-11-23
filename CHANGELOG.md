@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 — 2026-04-14
+## 0.1.0
 
 - Initial scaffold
 - `inc/` auto-loader modeled after diffyweb/wp-basetheme
